@@ -40,9 +40,9 @@ def init_rag_chain():
     if not documents:
         raise ValueError("No se encontraron documentos PDF ni el archivo JSON en la carpeta ./data")
 
-    # 3. Embeddings remotos con Google Gemini (Consumo mínimo de memoria RAM)
+    # 3. Embeddings optimizados de Google Gemini (Consumo mínimo de RAM)
     embeddings = GoogleGenerativeAIEmbeddings(
-        model="models/text-embedding-004",
+        model="text-embedding-004",
         google_api_key=os.getenv("GOOGLE_API_KEY")
     )
     
@@ -53,14 +53,14 @@ def init_rag_chain():
     )
     retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 
-    # 4. Definir Modelo Gemini
+    # 4. Modelo Gemini
     llm = ChatGoogleGenerativeAI(
         model="gemini-1.5-flash",
         temperature=0.1,
         google_api_key=os.getenv("GOOGLE_API_KEY")
     )
 
-    # 5. Definir Prompt
+    # 5. Prompt de la UCSS
     template = """Eres el asistente virtual oficial de la Universidad Católica Sedes Sapientiae (UCSS).
 Responde a la pregunta del usuario basándote únicamente en el siguiente contexto institucional disponible.
 Si no encuentras la respuesta en el contexto, indica de forma amable que no dispones de esa información en este momento.
@@ -73,7 +73,7 @@ Respuesta:"""
 
     prompt = ChatPromptTemplate.from_template(template)
 
-    # 6. Construir Cadena RAG usando LCEL
+    # 6. Cadena RAG con LCEL
     rag_chain = (
         {"context": retriever | format_docs, "question": RunnablePassthrough()}
         | prompt
