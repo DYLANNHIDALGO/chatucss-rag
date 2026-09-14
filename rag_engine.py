@@ -3,8 +3,7 @@ import json
 from langchain_community.document_loaders import PyPDFDirectoryLoader
 from langchain_core.documents import Document
 from langchain_community.vectorstores import Chroma
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
@@ -41,9 +40,10 @@ def init_rag_chain():
     if not documents:
         raise ValueError("No se encontraron documentos PDF ni el archivo JSON en la carpeta ./data")
 
-    # 3. Embeddings locales con HuggingFace
-    embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+    # 3. Embeddings remotos con Google Gemini (Consumo mínimo de memoria RAM)
+    embeddings = GoogleGenerativeAIEmbeddings(
+        model="models/text-embedding-004",
+        google_api_key=os.getenv("GOOGLE_API_KEY")
     )
     
     vectorstore = Chroma.from_documents(
@@ -53,9 +53,9 @@ def init_rag_chain():
     )
     retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 
-    # 4. Definir Modelo Gemini actualizado a gemini-3.6-flash
+    # 4. Definir Modelo Gemini
     llm = ChatGoogleGenerativeAI(
-        model="gemini-3.6-flash",
+        model="gemini-2.5-flash",
         temperature=0.1,
         google_api_key=os.getenv("GOOGLE_API_KEY")
     )
