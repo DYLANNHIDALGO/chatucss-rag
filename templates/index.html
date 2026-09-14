@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UCSS AI Cyberpunk</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- ?v=2.0 fuerza al navegador a cargar la nueva versión neón del CSS -->
+    <link rel="stylesheet" href="/static/css/styles.css?v=2.0">
+    
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="brand-badge">
+                <div class="brand-icon">
+                    <i class="fa-solid fa-microchip"></i>
+                </div>
+                <div class="brand-text">
+                    <h2>UCSS <span>AI</span></h2>
+                    <span class="badge-tag">NEON CORE</span>
+                </div>
+            </div>
+
+            <nav class="sidebar-menu">
+                <div class="menu-category">MÓDULOS PRINCIPALES</div>
+                <button class="menu-item active">
+                    <i class="fa-solid fa-comments"></i>
+                    <span>Consulta Virtual</span>
+                </button>
+
+                <div class="menu-category">INFORMACIÓN REGULAR</div>
+                
+                <!-- 1. Botón Reemplazado -->
+                <button class="menu-item" onclick="insertQuery('¿Cuáles son las modalidades de admisión y requisitos de matrícula en la UCSS?')">
+                    <i class="fa-solid fa-user-graduate"></i>
+                    <span>Admisión y Matrícula</span>
+                </button>
+
+                <!-- 2. Botones Existentes -->
+                <button class="menu-item" onclick="insertQuery('¿Cuánto cuesta el trámite de Carné Universitario y otros trámites?')">
+                    <i class="fa-solid fa-receipt"></i>
+                    <span>Tasas y Trámites</span>
+                </button>
+                <button class="menu-item" onclick="insertQuery('¿Qué sedes, filiales y carreras ofrece la UCSS?')">
+                    <i class="fa-solid fa-building-columns"></i>
+                    <span>Oferta Académica</span>
+                </button>
+
+                <!-- 3. NUEVOS BOTONES AGREGADOS -->
+                <button class="menu-item" onclick="insertQuery('¿Cuáles son los requisitos para obtener el Bachiller y Titulación en la UCSS?')">
+                    <i class="fa-solid fa-award"></i>
+                    <span>Grados y Titulación</span>
+                </button>
+                <button class="menu-item" onclick="insertQuery('¿Qué servicios ofrece la Dirección de Bienestar Universitario?')">
+                    <i class="fa-solid fa-heart-pulse"></i>
+                    <span>Bienestar Universitario</span>
+                </button>
+                <button class="menu-item" onclick="insertQuery('¿Cómo puedo comunicarme con Mesa de Partes o Atención al Alumno UCSS?')">
+                    <i class="fa-solid fa-headset"></i>
+                    <span>Contacto y Atención</span>
+                </button>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="user-status">
+                    <span class="status-pulse"></span>
+                    <span>MOTOR RAG ONLINE</span>
+                </div>
+            </div>
+        </aside>
+
+        <main class="chat-area">
+            <header class="chat-header">
+                <div class="header-info">
+                    <h3>Asistente de Reglamento y Servicios UCSS</h3>
+                    <div class="system-status">
+                        <i class="fa-solid fa-bolt"></i>
+                        <span>Sistema IA Activo</span>
+                    </div>
+                </div>
+                <button id="clear-btn" class="btn-clear">
+                    <i class="fa-solid fa-power-off"></i>
+                    <span>Reiniciar Chat</span>
+                </button>
+            </header>
+
+            <div class="chat-messages" id="chat-messages">
+                <div class="message bot">
+                    <div class="avatar">
+                        <i class="fa-solid fa-robot"></i>
+                    </div>
+                    <div class="message-content">
+                        <div class="author-tag">ASISTENTE OFICIAL UCSS</div>
+                        <p>Hola, soy el <strong>Asistente Virtual de la UCSS</strong>. Puedes hacerme preguntas sobre asistencia, reclamos de notas, trámites, pensiones o reglamentos según la información oficial de la institución.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-input-wrapper">
+                <form id="chat-form" class="chat-input-area">
+                    <input type="text" id="user-input" placeholder="Escribe tu consulta sobre la UCSS..." autocomplete="off" required>
+                    <button type="submit" id="send-btn" aria-label="Enviar consulta">
+                        <i class="fa-solid fa-paper-plane"></i>
+                    </button>
+                </form>
+            </div>
+        </main>
+    </div>
+
+    <script src="/static/js/app.js?v=2.0"></script>
+</body>
+</html>

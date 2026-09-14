@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "categoria": "Información Institucional",
+    "pregunta": "¿Cuándo fue fundada y aprobada la UCSS?",
+    "respuesta": "La UCSS fue fundada el 31 de mayo de 1998 y aprobada el 27 de diciembre de 1999 por Resolución N° 688-99 CONAFU."
+  },
+  {
+    "id": 2,
+    "categoria": "Información Institucional",
+    "pregunta": "¿Quién es la entidad promotora de la UCSS y cuál es su fundador?",
+    "respuesta": "Fue fundada por Monseñor Lino Panizza Richero y su entidad promotora es la Diócesis de Carabayllo."
+  },
+  {
+    "id": 3,
+    "categoria": "Información Institucional",
+    "pregunta": "¿Cuándo obtuvo la UCSS su licenciamiento institucional por SUNEDU?",
+    "respuesta": "Obtuvo el licenciamiento institucional el 12 de septiembre de 2018 mediante la Resolución N° 117-2018-SUNEDU/CD."
+  },
+  {
+    "id": 4,
+    "categoria": "Información Institucional",
+    "pregunta": "¿Cuál es la misión de la Universidad Católica Sedes Sapientiae?",
+    "respuesta": "Brindar una formación integral basada en valores cristianos, la excelencia académica y el compromiso con el desarrollo de la sociedad."
+  },
+  {
+    "id": 5,
+    "categoria": "Información Institucional",
+    "pregunta": "¿Dónde queda la sede central de la UCSS?",
+    "respuesta": "Esq. Constelaciones y Sol de Oro s/n, Urb. Sol de Oro, Los Olivos, Lima – Perú."
+  },
+  {
+    "id": 6,
+    "categoria": "Información Institucional",
+    "pregunta": "¿Qué sedes y filiales tiene la UCSS en el Perú?",
+    "respuesta": "Cuenta con la Sede Central (Los Olivos) y filiales/filiales regionales en Chulucanas (Piura), Tarma (Junín), Atalaya (Ucayali) y Nueva Cajamarca (San Martín)."
+  },
+  {
+    "id": 7,
+    "categoria": "Información Institucional",
+    "pregunta": "¿Cuál es el lema institucional de la UCSS?",
+    "respuesta": "El lema de la universidad es 'La verdad os hará libres' (Veritas liberabit vos)."
+  },
+  {
+    "id": 8,
+    "categoria": "Información Institucional",
+    "pregunta": "¿Cuáles son las facultades de la UCSS?",
+    "respuesta": "Cuenta con la Facultad de Ciencias Económicas y Comerciales, Facultad de Educación y Humanidades, Facultad de Ciencias de la Salud, Facultad de Ingeniería y Facultad de Derecho y Ciencias Políticas."
+  },
+  {
+    "id": 9,
+    "categoria": "Información Institucional",
+    "pregunta": "¿Qué es la NOPOVI en la UCSS?",
+    "respuesta": "Es la Noche de Portones Abiertos Virtual / Innovadora, evento de orientación vocacional e información académica para postulantes."
+  },
+  {
+    "id": 10,
+    "categoria": "Información Institucional",
+    "pregunta": "¿Qué es el Programa NOPOKI?",
+    "respuesta": "Es una iniciativa de inclusión universitaria de la UCSS en Atalaya, orientada a la formación superior de comunidades nativas y amazónicas."
+  },
+  {
+    "id": 11,
+    "categoria": "Admisión y Matrícula",
+    "pregunta": "¿Cuáles son las modalidades de ingreso a la UCSS?",
+    "respuesta": "Examen Ordinario, Centro Preuniversitario (Pre-UCSS), Primeros Puestos, Traslado Externo, Graduados o Titulados, y Exoneración por Deporte/Comisión."
+  },
+  {
+    "id": 12,
+    "categoria": "Admisión y Matrícula",
+    "pregunta": "¿Qué documentos se necesitan para postular por Examen Ordinario?",
+    "respuesta": "Certificados de estudios secundarios originales, copia de DNI, ficha de inscripción y comprobante de pago por derecho de admisión."
+  },
+  {
+    "id": 13,
+    "categoria": "Admisión y Matrícula",
+    "pregunta": "¿Cómo funciona el ingreso directo por la Pre UCSS?",
+    "respuesta": "Los estudiantes que aprueban los módulos académicos con nota mínima aprobatoria según vacantes obtienen el ingreso directo."
+  },
+  {
+    "id": 14,
+    "categoria": "Admisión y Matrícula",
+    "pregunta": "¿Cuáles son los requisitos para ingresar por Traslado Externo?",
+    "respuesta": "Certificado original de estudios universitarios, sílabos visados, certificado de no haber sido separado por sanción disciplinaria y copia de DNI."
+  },
+  {
+    "id": 15,
+    "categoria": "Admisión y Matrícula",
+    "pregunta": "¿Cuándo se realiza la matrícula regular?",
+    "respuesta": "Se realiza antes del inicio de cada semestre académico (marzo/abril para el periodo I y agosto/septiembre para el periodo II) según el cronograma oficial."
+  },
+  {
+    "id": 16,
+    "categoria": "Admisión y Matrícula",
+    "pregunta": "¿Es obligatorio el examen médico para la matrícula de ingresantes?",
+    "respuesta": "Sí, todos los estudiantes ingresantes deben cumplir con la evaluación médica obligatoria del Servicio de Salud UCSS."
+  },
+  {
+    "id": 17,
+    "categoria": "Admisión y Matrícula",
+    "pregunta": "¿Se puede realizar reserva de matrícula?",
+    "respuesta": "Sí, el estudiante puede solicitar la reserva de matrícula dentro del plazo fijado en el calendario académico y por un máximo de hasta 4 semestres."
+  },
+  {
+    "id": 18,
+    "categoria": "Admisión y Matrícula",
+    "pregunta": "¿Qué pasa si me matriculo fuera del plazo regular?",
+    "respuesta": "Deberás solicitar una matrícula extemporánea sujeta al pago de la tasa correspondiente y a la disponibilidad de vacantes en las asignaturas."
+  },
+  {
+    "id": 19,
+    "categoria": "Admisión y Matrícula",
+    "pregunta": "¿Cuál es el límite mínimo y máximo de créditos para matricularse?",
+    "respuesta": "El mínimo regular es de 12 créditos y el máximo es de 22 créditos por semestre académico, salvo autorización especial del Decanato."
+  },
+  {
+    "id": 20,
+    "categoria": "Admisión y Matrícula",
+    "pregunta": "¿Cómo se realiza la rectificación o retiro de asignaturas?",
+    "respuesta": "Se efectúa a través del portal académico institucional dentro de las dos primeras semanas de inicio de clases según el reglamento."
+  },
+  {
+    "id": 21,
+    "categoria": "Tasas y Trámites",
+    "pregunta": "¿En cuántas cuotas se divide el pago del semestre en la UCSS?",
+    "respuesta": "El semestre académico se paga en 1 matrícula inicial y 5 cuotas o pensiones mensualmente distribuidas."
+  },
+  {
+    "id": 22,
+    "categoria": "Tasas y Trámites",
+    "pregunta": "¿Qué bancos o medios están autorizados para el pago de pensiones UCSS?",
+    "respuesta": "Pagos en ventanilla y banca por internet de Scotiabank, Banco de la Nación, Interbank, BBVA y plataformas digitales como YAPE."
+  },
+  {
+    "id": 23,
+    "categoria": "Tasas y Trámites",
+    "pregunta": "¿Cuál es el costo del trámite de Carné Universitario?",
+    "respuesta": "El trámite del carné universitario tiene un costo de S/ 36.00, sujeto a las disposiciones de SUNEDU."
+  },
+  {
+    "id": 24,
+    "categoria": "Tasas y Trámites",
+    "pregunta": "¿Qué cobro genera el pago extemporáneo de una pensión?",
+    "respuesta": "Aplica una mora fija o tasa de recargo por pago fuera de fecha establecida en el tarifario anual."
+  },
+  {
+    "id": 25,
+    "categoria": "Tasas y Trámites",
+    "pregunta": "¿Cuánto cuesta el Examen Rezagado en la UCSS?",
+    "respuesta": "El derecho de examen rezagado (Parcial o Final) tiene un costo de S/ 52.00 por asignatura."
+  },
+  {
+    "id": 26,
+    "categoria": "Tasas y Trámites",
+    "pregunta": "¿Dónde se tramita la constancia de estudios?",
+    "respuesta": "Se solicita a través del portal de Asuntos Académicos en el ERP de la universidad o mesa de partes virtual."
+  },
+  {
+    "id": 27,
+    "categoria": "Tasas y Trámites",
+    "pregunta": "¿Cuál es el precio del Certificado Oficial de Estudios por ciclo?",
+    "respuesta": "Tiene un valor normado en el tarifario institucional por cada ciclo académico certificado."
+  },
+  {
+    "id": 28,
+    "categoria": "Tasas y Trámites",
+    "pregunta": "¿Cuánto cuesta el trámite de Reactualización de Matrícula?",
+    "respuesta": "La reactualización para estudiantes que dejaron de estudiar más de un periodo tiene una tasa administrativa fijada en S/ 100.00."
+  },
+  {
+    "id": 29,
+    "categoria": "Tasas y Trámites",
+    "pregunta": "¿Dónde se realizan las rectificaciones de notas?",
+    "respuesta": "Se canaliza con la jefatura del curso y se tramita ante la Oficina de Asuntos Académicos (OAA) dentro del plazo reglamentario."
+  },
+  {
+    "id": 30,
+    "categoria": "Tasas y Trámites",
+    "pregunta": "¿Puedo solicitar un descuento o recategorización de pensiones?",
+    "respuesta": "Sí, la solicitud se presenta a la Oficina de Bienestar Universitario adjuntando la evaluación socioeconómica y sustento requerido."
+  },
+  {
+    "id": 31,
+    "categoria": "Reglamento Académico",
+    "pregunta": "¿Cuál es la nota mínima aprobatoria en la UCSS?",
+    "respuesta": "La nota mínima aprobatoria para asignaturas de pregrado es 11 (once) en la escala vigesimal (0 a 20)."
+  },
+  {
+    "id": 32,
+    "categoria": "Reglamento Académico",
+    "pregunta": "¿Cómo se calcula el Promedio Final de un curso?",
+    "respuesta": "Depende del sistema de evaluación del sílabo, comúnmente compuesto por Evaluaciones Continuas (EC), Examen Parcial (EP) y Examen Final (EF)."
+  },
+  {
+    "id": 33,
+    "categoria": "Reglamento Académico",
+    "pregunta": "¿Qué porcentaje de inasistencias inhabilita a un estudiante?",
+    "respuesta": "Superar el 30% de inasistencias injustificadas en el ciclo causa la inhabilitación (DPI) del curso."
+  },
+  {
+    "id": 34,
+    "categoria": "Reglamento Académico",
+    "pregunta": "¿Cómo se justifica una inasistencia a clases o evaluaciones?",
+    "respuesta": "Presentando la solicitud con certificado médico de ESSALUD/MINSA o documento probatorio en la OAA en un plazo no mayor a 3 días hábiles."
+  },
+  {
+    "id": 35,
+    "categoria": "Reglamento Académico",
+    "pregunta": "¿Qué es la condición académica de 'TRICA'?",
+    "respuesta": "Es la desaprobación de una misma asignatura por tercera vez, lo cual conlleva la separación temporal o definitiva según el reglamento de pregrado."
+  },
+  {
+    "id": 36,
+    "categoria": "Reglamento Académico",
+    "pregunta": "¿Qué sucede si incurro en plagio en un examen o trabajo académico?",
+    "respuesta": "La falta es tipificada como grave, con la asignación automática de nota cero (00) y apertura de proceso disciplinario sancionador."
+  },
+  {
+    "id": 37,
+    "categoria": "Reglamento Académico",
+    "pregunta": "¿Cuáles son los requisitos para rendir un Examen Rezagado?",
+    "respuesta": "Estar al día en los pagos, pagar el derecho del examen e ingresar la solicitud justificada en el sistema dentro del cronograma fijado."
+  },
+  {
+    "id": 38,
+    "categoria": "Reglamento Académico",
+    "pregunta": "¿Existe la condición de amonestación u orfandad?",
+    "respuesta": "Sí, la universidad cuenta con reglamentos de beca por orfandad para casos socioeconómicos graves imprevistos."
+  },
+  {
+    "id": 39,
+    "categoria": "Reglamento Académico",
+    "pregunta": "¿A cuántas asignaturas puedo matricularme en cursos de verano / ciclo vacacional?",
+    "respuesta": "Como máximo el alumno puede matricularse en 2 asignaturas o un máximo de 9 créditos académicos."
+  },
+  {
+    "id": 40,
+    "categoria": "Reglamento Académico",
+    "pregunta": "¿Qué es el sistema de Tutoría Académica?",
+    "respuesta": "Es el acompañamiento pedagógico y orientatorio brindado por los docentes para fortalecer el rendimiento de los alumnos."
+  },
+  {
+    "id": 41,
+    "categoria": "Grados y Títulos",
+    "pregunta": "¿Qué requisitos se piden para obtener el Grado de Bachiller?",
+    "respuesta": "Aprobar la totalidad del plan de estudios, presentar un trabajo de investigación, acreditar el dominio de un idioma extranjero y no tener deudas."
+  },
+  {
+    "id": 42,
+    "categoria": "Grados y Títulos",
+    "pregunta": "¿Qué exigencia de idioma extranjero pide la UCSS?",
+    "respuesta": "Se exige el nivel intermedio concluido de un idioma extranjero (o lengua nativa para carreras interculturales) certificado por el Centro de Idiomas UCSS."
+  },
+  {
+    "id": 43,
+    "categoria": "Grados y Títulos",
+    "pregunta": "¿Cuáles son las modalidades para obtener el Título Profesional?",
+    "respuesta": "Sustentación de Tesis o Trabajo de Suficiencia Profesional (TSP) según normatividad vigente."
+  },
+  {
+    "id": 44,
+    "categoria": "Grados y Títulos",
+    "pregunta": "¿Cuánto cuesta el derecho de tramitación para Título Profesional por Tesis?",
+    "respuesta": "El costo administrativo asciende a S/ 1,800.00."
+  },
+  {
+    "id": 45,
+    "categoria": "Grados y Títulos",
+    "pregunta": "¿Qué función cumple el repositorio institucional UCSS?",
+    "respuesta": "Almacena, preserva y difunde las tesis, tesinas y trabajos de investigación aprobados para la obtención de grados académicos."
+  },
+  {
+    "id": 46,
+    "categoria": "Grados y Títulos",
+    "pregunta": "¿Qué nivel de similitud permite el sistema Turnitin para tesis UCSS?",
+    "respuesta": "El porcentaje máximo de similitud permitido es del 20% excluyendo bibliografía y citaciones normadas."
+  },
+  {
+    "id": 47,
+    "categoria": "Grados y Títulos",
+    "pregunta": "¿Es obligatorio el curso de formación en investigación?",
+    "respuesta": "Sí, está incorporado dentro de las asignaturas del plan de estudios de la carrera."
+  },
+  {
+    "id": 48,
+    "categoria": "Grados y Títulos",
+    "pregunta": "¿Dónde se valida la constancia de egresado?",
+    "respuesta": "La expide la Dirección de Secretaría General tras la verificación del cumplimiento del plan de estudios."
+  },
+  {
+    "id": 49,
+    "categoria": "Grados y Títulos",
+    "pregunta": "¿Cuántos jurados evalúan la sustentación de una tesis?",
+    "respuesta": "La tesis es evaluada por un jurado dictaminador compuesto por 3 miembros docentes."
+  },
+  {
+    "id": 50,
+    "categoria": "Grados y Títulos",
+    "pregunta": "¿SUNEDU otorga directamente los títulos?",
+    "respuesta": "No, la UCSS otorga el título a nombre de la Nación y lo inscribe ante la SUNEDU."
+  },
+  {
+    "id": 51,
+    "categoria": "Servicios Universitarios",
+    "pregunta": "¿Cómo ingreso a la Biblioteca Virtual UCSS?",
+    "respuesta": "Ingresando a la plataforma institucional con tu usuario y contraseña de correo institucional."
+  },
+  {
+    "id": 52,
+    "categoria": "Servicios Universitarios",
+    "pregunta": "¿Qué servicios ofrece la Oficina de Bienestar Universitario?",
+    "respuesta": "Atención médica, tópico, apoyo psicológico, becas socioeconómicas, talleres culturales y deportivos."
+  },
+  {
+    "id": 53,
+    "categoria": "Servicios Universitarios",
+    "pregunta": "¿Cómo solicito una cita en el Servicio Psicopedagógico?",
+    "respuesta": "Se solicita a través de la intranet estudiantil o directamente en el módulo de Bienestar Universitario."
+  },
+  {
+    "id": 54,
+    "categoria": "Servicios Universitarios",
+    "pregunta": "¿La UCSS cuenta con bolsa de trabajo?",
+    "respuesta": "Sí, a través del Portal de Empleabilidad UCSS los alumnos y egresados acceden a convocatorias laborales."
+  },
+  {
+    "id": 55,
+    "categoria": "Servicios Universitarios",
+    "pregunta": "¿Cómo recupero mi clave del correo institucional o EVA?",
+    "respuesta": "Debes comunicarte con la Oficina de Tecnologías de Información (OTI) o usar la opción 'Olvidé mi contraseña' en el portal."
+  },
+  {
+    "id": 56,
+    "categoria": "Servicios Universitarios",
+    "pregunta": "¿Qué es el EVA UCSS?",
+    "respuesta": "Es el Entorno Virtual de Aprendizaje de la UCSS donde los profesores suben materiales y se realizan actividades virtuales."
+  },
+  {
+    "id": 57,
+    "categoria": "Servicios Universitarios",
+    "pregunta": "¿La UCSS cuenta con convenios internacionales de intercambio?",
+    "respuesta": "Sí, mediante la Oficina de Relaciones Internacionales con universidades de Italia, España, Colombia, entre otros."
+  },
+  {
+    "id": 58,
+    "categoria": "Servicios Universitarios",
+    "pregunta": "¿Cómo participo en los elencos de danza y música UCSS?",
+    "respuesta": "Mediante las convocatorias públicas que realiza el área de Cultura al inicio de cada ciclo."
+  },
+  {
+    "id": 59,
+    "categoria": "Servicios Universitarios",
+    "pregunta": "¿Dónde se gestiona el seguro de accidentes estudiantil?",
+    "respuesta": "A través de la Oficina de Bienestar Universitario en coordinación con la aseguradora prestadora de salud."
+  },
+  {
+    "id": 60,
+    "categoria": "Servicios Universitarios",
+    "pregunta": "¿Hay estacionamiento para vehículos o bicicletas en la sede principal?",
+    "respuesta": "Sí, la universidad dispone de zonas demarcadas para bicicletas y vehículos previa identificación."
+  },
+  {
+    "id": 61,
+    "categoria": "Oferta Académica",
+    "pregunta": "¿Qué carreras ofrece la Facultad de Ingeniería?",
+    "respuesta": "Ingeniería Industrial, Ingeniería de Sistemas, Ingeniería Civil e Ingeniería Ambiental."
+  },
+  {
+    "id": 62,
+    "categoria": "Oferta Académica",
+    "pregunta": "¿Qué carreras tiene la Facultad de Ciencias Económicas y Comerciales?",
+    "respuesta": "Administración, Contabilidad, Economía, Negocios Internacionales y Turismo."
+  },
+  {
+    "id": 63,
+    "categoria": "Oferta Académica",
+    "pregunta": "¿Qué carreras de Salud ofrece la UCSS?",
+    "respuesta": "Enfermería, Terapia Física y Rehabilitación, Nutrición y Dietética, y Psicología."
+  },
+  {
+    "id": 64,
+    "categoria": "Oferta Académica",
+    "pregunta": "¿La UCSS enseña la carrera de Derecho?",
+    "respuesta": "Sí, pertenece a la Facultad de Derecho y Ciencias Políticas en la sede central y filiales."
+  },
+  {
+    "id": 65,
+    "categoria": "Oferta Académica",
+    "pregunta": "¿Qué especialidades de Educación existen?",
+    "respuesta": "Educación Inicial, Educación Primaria, Educación Secundaria (con menciones) y Educación Especial."
+  },
+  {
+    "id": 66,
+    "categoria": "Oferta Académica",
+    "pregunta": "¿Cuántos semestres dura una carrera universitaria regular en la UCSS?",
+    "respuesta": "Tiene una duración de 10 semestres académicos (5 años)."
+  },
+  {
+    "id": 67,
+    "categoria": "Oferta Académica",
+    "pregunta": "¿Qué programas de Posgrado ofrece la universidad?",
+    "respuesta": "Maestrías en Educación, Gestión Pública, Bioética, Administración y diplomados de especialización."
+  },
+  {
+    "id": 68,
+    "categoria": "Oferta Académica",
+    "pregunta": "¿Las clases son 100% presenciales o híbridas?",
+    "respuesta": "Depende de la modalidad autorizada por SUNEDU para el programa académico lectivo."
+  },
+  {
+    "id": 69,
+    "categoria": "Oferta Académica",
+    "pregunta": "¿Qué es la formación humanística en la UCSS?",
+    "respuesta": "Un eje transversal de asignaturas orientadas al desarrollo ético, moral y cultural del estudiante."
+  },
+  {
+    "id": 70,
+    "categoria": "Oferta Académica",
+    "pregunta": "¿Ofrece la UCSS programas de segunda especialidad?",
+    "respuesta": "Sí, principalmente para el área de Educación y Ciencias de la Salud."
+  },
+  {
+    "id": 71,
+    "categoria": "Preguntas Frecuentes de Alumnos",
+    "pregunta": "¿Qué hago si el sistema ERP no carga mis notas?",
+    "respuesta": "Debes remitir una incidencia a soporte informático u OAA adjuntando la captura de pantalla de la inconsistencia."
+  },
+  {
+    "id": 72,
+    "categoria": "Preguntas Frecuentes de Alumnos",
+    "pregunta": "¿Puedo cambiarme de carrera dentro de la UCSS?",
+    "respuesta": "Sí, solicitando un traslado interno ante la facultad de destino cumpliendo los créditos y promedios requeridos."
+  },
+  {
+    "id": 73,
+    "categoria": "Preguntas Frecuentes de Alumnos",
+    "pregunta": "¿Qué ocurre si no pago a tiempo una pensión?",
+    "respuesta": "Se genera un recargo por mora y se inhabilita el acceso a trámites académicos administrativos hasta regularizar la cuenta."
+  },
+  {
+    "id": 74,
+    "categoria": "Preguntas Frecuentes de Alumnos",
+    "pregunta": "¿Cómo convalidar asignaturas si provengo de otra universidad?",
+    "respuesta": "Presentando certificado original de notas, sílabos firmados y pagando el derecho de convalidación por asignatura."
+  },
+  {
+    "id": 75,
+    "categoria": "Preguntas Frecuentes de Alumnos",
+    "pregunta": "¿Dónde reviso el estado de mis solicitudes administrativas?",
+    "respuesta": "En la sección 'Estado de Trámites' dentro del portal del estudiante o intranet institucional."
+  },
+  {
+    "id": 76,
+    "categoria": "Preguntas Frecuentes de Alumnos",
+    "pregunta": "¿Es obligatorio llevar el curso de idioma extranjero en el Centro de Idiomas de la universidad?",
+    "respuesta": "No, pero si estudias en una institución externa debes rendir un examen de suficiencia o solicitar la convalidación correspondiente."
+  },
+  {
+    "id": 77,
+    "categoria": "Preguntas Frecuentes de Alumnos",
+    "pregunta": "¿Cómo solicitar la prórroga de pago de pensión?",
+    "respuesta": "A través de la jefatura de cobranzas antes del vencimiento oficial del recibo."
+  },
+  {
+    "id": 78,
+    "categoria": "Preguntas Frecuentes de Alumnos",
+    "pregunta": "¿Qué es la ficha de matrícula y dónde la descargo?",
+    "respuesta": "Es el documento oficial que acredita tus cursos inscritos en el ciclo; se genera en la intranet tras pagar la matrícula."
+  },
+  {
+    "id": 79,
+    "categoria": "Preguntas Frecuentes de Alumnos",
+    "pregunta": "¿Puedo matricularme en cursos si tengo deuda pendiente?",
+    "respuesta": "No, el sistema bloquea el acceso al proceso de matrícula si existe una deuda administrativa anterior."
+  },
+  {
+    "id": 80,
+    "categoria": "Preguntas Frecuentes de Alumnos",
+    "pregunta": "¿Qué es la acreditación de prácticas preprofesionales (PPP)?",
+    "respuesta": "Es el registro oficial de horas laboradas o convenios de prácticas necesarios para la aprobación del plan académico."
+  },
+  {
+    "id": 81,
+    "categoria": "Normativa y Convivencia",
+    "pregunta": "¿Existe un código de ética estudiantil en la UCSS?",
+    "respuesta": "Sí, reglamenta las normas de conducta, convivencia, honestidad académica y respeto entre la comunidad universitaria."
+  },
+  {
+    "id": 82,
+    "categoria": "Normativa y Convivencia",
+    "pregunta": "¿Se permite fumar o consumir bebidas alcohólicas dentro del campus?",
+    "respuesta": "Está estrictamente prohibido fumar o ingerir alcohol dentro de las instalaciones universitarias."
+  },
+  {
+    "id": 83,
+    "categoria": "Normativa y Convivencia",
+    "pregunta": "¿Qué procedimiento sigue una sanción por falta grave?",
+    "respuesta": "Pasa al Comité Disciplinario para investigación, otorgando derecho de defensa al alumno sancionado."
+  },
+  {
+    "id": 84,
+    "categoria": "Normativa y Convivencia",
+    "pregunta": "¿Cómo reportar un caso de acoso o discriminación?",
+    "respuesta": "Mediante el canal de denuncias seguro y la Defensoría Universitaria de la UCSS."
+  },
+  {
+    "id": 85,
+    "categoria": "Normativa y Convivencia",
+    "pregunta": "¿Qué función cumple la Defensoría Universitaria?",
+    "respuesta": "Velar por los derechos de todos los miembros de la comunidad universitaria frente a actos arbitrarios."
+  },
+  {
+    "id": 86,
+    "categoria": "Sedes y Contactos",
+    "pregunta": "¿Cuál es el teléfono de la Central Telefónica UCSS?",
+    "respuesta": "El teléfono principal es (01) 533-8000."
+  },
+  {
+    "id": 87,
+    "categoria": "Sedes y Contactos",
+    "pregunta": "¿Cuál es el horario de atención presencial de la Mesa de Partes?",
+    "respuesta": "De lunes a viernes de 08:00 a.m. a 05:00 p.m."
+  },
+  {
+    "id": 88,
+    "categoria": "Sedes y Contactos",
+    "pregunta": "¿Dónde queda la filial Chulucanas?",
+    "respuesta": "Ubicada en la ciudad de Chulucanas, provincia de Morropón, departamento de Piura."
+  },
+  {
+    "id": 89,
+    "categoria": "Sedes y Contactos",
+    "pregunta": "¿Dónde queda la filial Tarma?",
+    "respuesta": "Ubicada en la provincia de Tarma, departamento de Junín."
+  },
+  {
+    "id": 90,
+    "categoria": "Sedes y Contactos",
+    "pregunta": "¿Cuál es el correo de atención de la Oficina de Asuntos Académicos?",
+    "respuesta": "El canal institucional es oaa@ucss.edu.pe."
+  },
+  {
+    "id": 91,
+    "categoria": "Varios",
+    "pregunta": "¿La UCSS otorga becas por rendimiento académico?",
+    "respuesta": "Sí, existen becas completas y parciales para los primeros puestos de cada carrera según evaluación."
+  },
+  {
+    "id": 92,
+    "categoria": "Varios",
+    "pregunta": "¿Se realizan ferias laborales en la universidad?",
+    "respuesta": "Sí, la universidad organiza la Expo Empleo UCSS una vez al año de forma virtual o presencial."
+  },
+  {
+    "id": 93,
+    "categoria": "Varios",
+    "pregunta": "¿Cómo ingresar a las clases virtuales por Teams / Zoom?",
+    "respuesta": "A través del enlace publicado por el docente en el EVA con las credenciales de tu cuenta institucional."
+  },
+  {
+    "id": 94,
+    "categoria": "Varios",
+    "pregunta": "¿Puedo solicitar duplicado de carné de biblioteca?",
+    "respuesta": "Actualmente la identificación en biblioteca se realiza con el DNI físico o Carné Universitario digital."
+  },
+  {
+    "id": 95,
+    "categoria": "Varios",
+    "pregunta": "¿Qué es el Centro de Extensión Universitaria y Proyección Social (CEPS)?",
+    "respuesta": "Organismo encargado de brindar cursos libres, talleres comunitarios y capacitación continua."
+  },
+  {
+    "id": 96,
+    "categoria": "Varios",
+    "pregunta": "¿Los egresados mantienen el correo institucional activo?",
+    "respuesta": "Sí, los egresados pueden conservar su cuenta institucional activa conforme a las normativas del área de OTI."
+  },
+  {
+    "id": 97,
+    "categoria": "Varios",
+    "pregunta": "¿Dónde consulto los sílabos de mis materias?",
+    "respuesta": "En la plataforma EVA de cada curso asignado durante el ciclo lectivo."
+  },
+  {
+    "id": 98,
+    "categoria": "Varios",
+    "pregunta": "¿Cuál es el costo del Examen de Admisión Ordinario?",
+    "respuesta": "El costo por derecho de admisión se fija anualmente en el tarifario de postulantes."
+  },
+  {
+    "id": 99,
+    "categoria": "Varios",
+    "pregunta": "¿Cómo tramitar el retiro voluntario del ciclo lectivo?",
+    "respuesta": "Presentando una solicitud dirigida al Decano de la Facultad exponiendo los motivos justificados antes de los exámenes parciales."
+  },
+  {
+    "id": 100,
+    "categoria": "Varios",
+    "pregunta": "¿Dónde puedo consultar el Reglamento General de la UCSS?",
+    "respuesta": "Está disponible de forma pública para descarga en el Portal de Transparencia de la universidad (ucss.edu.pe)."
+  }
+]
